@@ -1,0 +1,34 @@
+{
+  "username": "brads",
+  "comment": "Brad Scarlett",
+  "realms": [
+    "dev-*",
+    "beta-*",
+    "service-attributes-manager",
+    "service-consumer-indexer",
+    "service-dashboard-app",
+    "operations-gateway",
+    "identity-gateway",
+    "service-batcher-mention",
+    "service-batcher-event",
+    "us-identity-projector",
+    "au-identity-projector",
+    "au-identity-copier",
+    "au-identity-es-proxy",
+    "us-identity-es-proxy",
+    "service-twitter-consumer",
+    "au-identity-decorator",
+    "us-identity-decorator",
+    "au-identity-es",
+    "us-identity-es",
+    "us-identity-delta-processor",
+    "au-identity-delta-processor",
+    "au-identity-data"
+  ],
+  "groups": ["lexer", "sudo"],
+  "password": "$1$vXv0/HkX$2Ew8ILy2TSqcajl7rLIOY0",
+  "shell": "/bin/bash",
+  "ssh_keys": [
+    "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDjArt3fTeeUzuUx5zihAp+8/Oc2K68N2p8VsFRSOMVHFiw8nv/EVRGsPCtbwNr9IwKPK+tCr5OUCehvaP51P2Vr0jiHjwSz0PHx4g6UKrAJFw4sEfixnjS05Tne6fFrryx7j5Q4vRwDRzDW00lBHwPtQC8+pl7nr16UbprvZdgbqhVz1esQEUnk19BBwMY+H08xQrMQqTU+Zbb/naiz8El5dtNe4fjpWZVkZjz49r255cmmbLTrg8yRTiZFuNIQIv4SQrJDsipL71SV5a5R9V9KL3AmegiL7kbNGN8kgqKCEuazhESq8GadpQkWnMUB17QVFjg+bX42O1uB3qg30xH brads@Brads-MacBook-Pro.local"
+  ]
+}

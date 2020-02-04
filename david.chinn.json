@@ -1,0 +1,15 @@
+{
+  "username": "davidc",
+  "comment": "David Chinn",
+  "realms": [
+    "operations-gateway"
+  ],
+  "groups": [
+    "lexer"
+  ],
+  "password": "",
+  "shell": "/bin/bash",
+  "ssh_keys": [
+    "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBg5r+ZuDqTW4mXPmnweRhLUe9PLCbogQn7MZ7h6BNSa davidc@Hammers-MacBook.local"
+  ]
+}

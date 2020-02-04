@@ -1,0 +1,24 @@
+{
+  "username": "larsent",
+  "comment": "Thomas Larsen",
+  "realms": [
+    "au-identity-es-proxy",
+    "service-consumer-es-proxy",
+    "au-identity-data",
+    "identity-gateway",
+    "operations-gateway",
+    "us-identity-data",
+    "us-identity-es-proxy"
+  ],
+  "groups": [
+    "lexer",
+    "data",
+    "docker:au-identity-data",
+    "docker:us-identity-data"
+  ],
+  "shell": "/bin/bash",
+  "password": "$1$AWozg3J.$yPb9Qary52XpzvU3g6n490",
+  "ssh_keys": [
+    "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCvAsFAPsnp8yP+2G9CITeq16g19iUlEfddtmW4BTuhrEg82i0iyfa+eEV29Z93o/dV1JM8CBRyTOi9HsLxdk5/QpP+NFEncE/Ux2SQkGkjgLtEtGfpcpC5voEZzDnqM6vnE2sW1eApCaLqkPRppd2L9DQ+twIkvkhvkMi9ZR4glhJfJdj+xMNZVrMwvFd5X7VmECliVpZ+N7e77UIGZPmFtOgqEmNxquFVLMAZrCuSR+dI17saRwmsrICpyOSgmZqtvTlguEKsNe9Bnsp0MnJlIs1nxKCmSgT5G6VieApm9/js0ppUm9BP8w/BtiaRUjjhSYrKJxA9KUQsHhzTvRr9 larsent@Thomass-MacBook-Pro.local"
+  ]
+}

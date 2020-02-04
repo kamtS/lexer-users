@@ -1,0 +1,11 @@
+{
+  "username": "lexerdashboard",
+  "comment": "LexerDashboard SFTP Account",
+  "realms": [],
+  "groups": ["sftp", "exports"],
+  "shell": "/bin/false",
+  "home": "/volume1/home/lexerdashboard/",
+  "ssh_keys": [
+    "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDFBv5xhh9G9wCanIIwFZ2UqQZAYyXqQpu25X9orNdGK5DQ6GdMnmhlNp4VWx7ZdPfa0TWbYKOqV8wBXPXhARVFbkYNxc9Ns+gVOeMC97M6ZgK7bZk/ILxMTzJuzmiYExbaINd0SlWfCH3zBfPF4RRxdWX3r7S4x3v2E73eSyE3GIxmzA2BsouYoYUKCLIRiNQzUFU9UD3FgZnRHceJURHCNMT99sYFNa9ASvOgHm8GA7b0oGtXmF2ASf3DmLEaiWqvjT1QzJHp86ebpz0B5RAJVaGpWDZps7aWSloRwKzynGc/nzHeO9JXCRfJ13vDBYOqcqGRiO/I33xkuICITFHl"
+  ]
+}

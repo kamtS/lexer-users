@@ -1,0 +1,14 @@
+{
+  "username": "stefani",
+  "comment": "Stefani Chinn",
+  "realms": [
+    "operations-gateway",
+    "service-lexer-website-admin"
+  ],
+  "groups": ["lexer"],
+  "password": "$1$KNZno2pv$wgO/B/YvhctVkKf6D3kFg0",
+  "shell": "/bin/bash",
+  "ssh_keys": [
+    "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDXWaaYBnli5xDERj0lvFrxD91Br+ubjBmE8SpbNxs7R"
+  ]
+}

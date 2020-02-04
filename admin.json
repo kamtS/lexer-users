@@ -1,0 +1,10 @@
+{
+  "username": "admin",
+  "comment": "",
+  "realms": ["all", "*"],
+  "groups": ["admin"],
+  "password": "",
+  "shell": "/bin/bash",
+  "TODO": "I'm not sure why this account exists",
+  "ssh_keys": ["ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCrxjIppK21mjBrxQoxPXq4Y4bsPLd1nX9VRwGSRlsrzH9Yj6f/3RhVipg4dwzVLaWN43XlfJZ/CGtjC4HyxWIoTww5DNYCOOSxVMkGAKc1FJVlYVdLIXT6QbjMplp1pMgdeiWQEnc3L3aYs98CFnvu2N6cL5YOLMRN3E3I5MDkkIHFA8dm0NhnF6qdQy8eU9m8e9zyco8HlNTvnkor7dbAd5fXDfflCPXKDS1HiPNTuB9ZfZ10OsqH39dJx2P8wS7Dt351uIzVaUBfsh1NPFIAWGtEH4bFmaGU24o1I74t83XY1A9qhFNsBIsDxoqRmeepLP7O2/rcHQz5+NIwGy0z"]
+}

@@ -1,0 +1,25 @@
+{
+  "username": "gobinds",
+  "comment": "Gobind Singh",
+  "realms": [
+    "au-identity-data",
+    "identity-gateway",
+    "operations-gateway",
+    "au-identity-admin",
+    "au-identity-es-proxy",
+    "us-identity-es-proxy",
+    "service-attributes-manager",
+    "us-identity-data"
+  ],
+  "groups": [
+    "data",
+    "docker:au-identity-data",
+    "docker:us-identity-data",
+    "lexer"
+  ],
+  "password": "$1$6yykAGMC$cm0sORjrf.AiEJQ62mUsC.",
+  "shell": "/bin/bash",
+  "ssh_keys": [
+    "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPzU1hSL44Ativmx09NQtM8K4vsY8RzWNU7WYWPL12kS gobinds@Gobinds-Big-Bertha.local"
+  ]
+}

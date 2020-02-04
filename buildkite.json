@@ -1,0 +1,17 @@
+{
+  "username": "buildkite",
+  "comment": "BuildKite",
+  "realms": [
+    "all", "*"
+  ],
+  "groups": [
+    "lexer",
+    "docker",
+    "data",
+    "www-data:service-map"
+  ],
+  "shell": "/bin/bash",
+  "ssh_keys": [
+    "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDkLqDVc/K/QpICQxenHM7BnHmA8B/c+td+iyQu3V/ZBRyiYT3Y+Yebpn1UcjKvEkLAPWZW6Ftm2JocxG+9tTCny6z0eSck0dxzcmraAIIxEQdbpPeUH4/xSGBbpr3Kjm2PYTHm+6OYNks5VXhJCJFuBG0tEHNqCtCRiPvQvmuYNCdnoOQvU8v1HP1n8s0eHky0EGLi5mJGgkESd9WjjI+CyXBqLjIdTHMH2D2UmXs62lbcVlljRu/L8HqDzz2W03Xwszedbo5MJ7Lfcsc5JVhi90966nK2NXbx8l+VjYkCfaGA+znacv1bf5al71U9hslGvaiNgnzDGQYY9S+UIsmb"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "username": "au-identity-es-proxy",
+  "comment": "Proxy credentials",
+  "realms": [
+    "au-identity-es-proxy",
+    "us-identity-es-proxy"
+  ],
+  "groups": [],
+  "password": "$1$MRMGrDrs$n3Lw8dGYfsrgKTO.4TLGg.",
+  "shell": "/bin/false",
+  "ssh_keys": []
+}

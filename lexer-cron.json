@@ -1,0 +1,27 @@
+{
+  "username": "lexer-cron",
+  "comment": "Cron",
+  "realms": [
+    "operations-buildkite",
+    "au-identity-es-proxy",
+    "us-identity-es-proxy",
+    "service-consumer-es-proxy",
+    "service-lexer-website",
+    "service-map",
+    "au-identity-delta-processor",
+    "us-identity-delta-processor"
+  ],
+  "groups": [
+     "lexer",
+     "www-data:service-lexer-website",
+     "www-data:service-map",
+     "docker:au-identity-delta-processor",
+     "docker:us-identity-delta-processor"
+  ],
+  "password": "$1$JumNNCI9$3pJFAOJ69fDcif2JocJ/4/",
+  "shell": "/bin/bash",
+  "ssh_keys": [
+    "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDAZney90P3iBgN/DBX08fWG9LRSGtmoLL3tHKCQN+qM lexer-cron@lexer.com.au"
+  ]
+}
+

@@ -1,0 +1,14 @@
+{
+  "username": "amyholland",
+  "comment": "Amy Holland",
+  "realms": [
+    "operations-gateway",
+    "service-lexer-website-admin"
+  ],
+  "groups": ["lexer"],
+  "password": "",
+  "shell": "/bin/bash",
+  "ssh_keys": [
+
+  ]
+}

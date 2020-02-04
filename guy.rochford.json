@@ -1,0 +1,13 @@
+{
+  "username": "guyrochford",
+  "comment": "Guy Rochford",
+  "realms": [
+    "operations-gateway"
+  ],
+  "groups": [
+    "lexer"
+  ],
+  "password": "",
+  "shell": "/bin/bash",
+  "ssh_keys": []
+}

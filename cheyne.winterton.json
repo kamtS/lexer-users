@@ -1,0 +1,24 @@
+{
+  "username": "cheynew",
+  "comment": "Cheyne Winterton",
+  "realms": [
+    "identity-gateway",
+    "au-identity-data",
+    "au-identity-data-processor",
+    "us-identity-data",
+    "operations-gateway",
+    "us-identity-es-proxy",
+    "au-identity-es-proxy"
+  ],
+  "groups": [
+    "lexer",
+    "data",
+    "docker:au-identity-data",
+    "docker:us-identity-data"
+  ],
+  "password": "$1$hDjuIDu8$TB0tWZg8djdlaIscC7M5K.",
+  "shell": "/bin/bash",
+  "ssh_keys": [
+    "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC7gJ7PD1is7fjg+MhrvU7lgUDbBPRzkE5pOnFbASW6MpMTFW1q+MrnA77kT2Zg/cwJndhbmwMPHVfLqb06ytbYjVLhYY1tRqv6fLxzW3q+v2VLx0K6QmfIUOBdRHH/e3dw++ZoToPtlBAbRV0ev0bAm13TEFiva2UASWclVX1aeeFt0WY/JQBEGuxAAktVRRQaYWaMdMGkedEgFAx/3tQPxpDa6zC1Yn2XcFw2QQV6LSQqUPqVPkC3o7ym/2y4FX26hpYLg3RSkvhxwWRK/vYpkpnNcCFBmGMPgacKXho2JaSyGBSQBZIah63EUMQLxxhN9mXNNa6YdorB+t449Y6/ cheyne@Cheynes-MacBook-Pro.local"
+  ]
+}

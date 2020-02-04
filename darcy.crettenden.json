@@ -1,0 +1,13 @@
+{
+  "username": "darcycrettenden",
+  "comment": "Darcy Crettenden",
+  "realms": [
+    "operations-gateway"
+  ],
+  "groups": ["lexer"],
+  "password": "",
+  "shell": "/bin/bash",
+  "ssh_keys": [
+    "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFwN3XIkA0BTPsCnDuN+aDDbDwsOvKc1sVD0waHi59+2 darcycrettenden@Darcys-MacBook.local"  
+  ]
+}

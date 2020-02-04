@@ -1,0 +1,11 @@
+{
+  "username": "ylkwong",
+  "comment": "Lam Kwong",
+  "realms": [
+    "service-lexer-website-admin"
+  ],
+  "groups": ["lexer"],
+  "password": "$1$CW4IJZ9m$fnkXovE.PTZmj3exAHNNw1",
+  "shell": "/bin/bash",
+  "ssh_keys": []
+}

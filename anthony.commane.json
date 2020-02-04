@@ -1,0 +1,17 @@
+{
+  "username": "commane",
+  "comment": "Anthony Commane",
+  "realms": [
+    "operations-gateway",
+    "service-consumer-es-proxy",
+    "service-lexer-website-admin"
+  ],
+  "groups": [
+    "lexer"
+  ],
+  "password": "$1$329oojeI$KU9F7GlpTc/922L2N5Pax/",
+  "shell": "/bin/bash",
+  "ssh_keys": [
+    "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIN2txnA+OmEvMSVeMHi0Gg4krEdelw4GmVqcovbheWT5 anthonyc@Anthonys-MacBook-Pro.local"
+  ]
+}

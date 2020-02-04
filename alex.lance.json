@@ -1,0 +1,13 @@
+{
+  "username": "alla",
+  "comment": "Alex Lance",
+  "realms": ["all", "*"],
+  "groups": ["lexer", "admin", "sudo"],
+  "password": "$1$rQzX6i/v$P3wfRnXFa59atrJczzZId0",
+  "shell": "/bin/bash",
+  "ssh_keys": [
+    "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAgrZUvA7Nx8QKjU+iT2HuI3gDjRiKYCoqgI7JQGXzMQ alla@sansa",
+    "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGCSvhp4GMS7dRQHHy3+Lb8vDyeup2vBqocm4L32ntq0 alla@mint",
+    "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHw0l5/hwh2w4J9cG4920vejGMj7OBcriCZxIiXYimFr alla@lyra"
+  ]
+}

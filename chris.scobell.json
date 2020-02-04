@@ -1,0 +1,28 @@
+{
+  "username": "chriss",
+  "comment": "Chris Scobell",
+  "realms": [
+    "dev-*",
+    "service-dashboard-app",
+    "service-consumer",
+    "service-facebook-consumer",
+    "operations-gateway",
+    "operations-cron",
+    "beta-dashboard",
+    "au-identity-es-proxy",
+    "service-consumer-es-proxy",
+    "identity-gateway",
+    "us-identity-projector",
+    "service-consumer-indexer",
+    "operations-buildkite",
+    "service-twitter-consumer",
+    "au-identity-data",
+    "us-identity-data"
+  ],
+  "groups": ["lexer", "sudo"],
+  "password": "$1$yRK5tfjM$gNYoPdSHupFsU8tDhFhfc1",
+  "shell": "/bin/bash",
+  "ssh_keys": [
+    "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDyk4uesVaaae2RVDM1TUAh3W2GKjPy4x7jLXSFmdVoUl2oF9SdNsrN2CaDTtlt3K+ovT67fNTvx0ULzcw2W/P85r1/7LjNjOlEceW3PMEhwh8QnBAqDrDiHEIMJj/WHRy2905b5Fr1+wbafF4w8QdjjTh6eLvargbqkbjnidnzwyhtGmgSmUMXB090LaAex2wt1qySwR1wYXlRRxa90D49FUi6+w1/fwanXXHi4eQ/VjGNMNKKz2EbC+h+MrdMGb3FxMqOFgxX5FlpL5+5pQ9SFavkID36wo5ioO15Y2Hc2hyrDA29+b5a0bfwwBHsJwlwd4W7Ne4VhJ3Ktqmw5ZSH chriss@Chriss-MacBook-Pro.local"
+  ]
+}

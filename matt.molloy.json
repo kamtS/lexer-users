@@ -1,0 +1,9 @@
+{
+  "username": "mattm",
+  "comment": "Matt Molloy",
+  "realms": ["operations-gateway"],
+  "groups": ["lexer"],
+  "ssh_keys": [
+    "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFApZKZ/rXZxMZ/CQ5sWjxJxlBulh/d/zqsRCKmztKtD matthewmolloy@Matthews-MacBook-Pro.local"
+  ]
+}

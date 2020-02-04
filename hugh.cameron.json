@@ -1,0 +1,25 @@
+
+{
+  "username": "hughcameron",
+  "comment": "Hugh Cameron",
+  "realms": [
+    "operations-gateway",
+    "identity-gateway",
+    "service-dashboard-app",
+    "au-identity-es-proxy",
+    "us-identity-es-proxy",
+    "au-identity-data",
+    "us-identity-data"
+  ],
+  "groups": [
+    "lexer",
+    "docker:service-dashboard-app",
+    "docker:au-identity-data",
+    "docker:us-identity-data"
+  ],
+  "password": "$1$2.VJiPlb$yULHQ.8D.VO2.pqu0YDlW/",
+  "shell": "/bin/bash",
+  "ssh_keys": [
+      "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOKcyD4im+oMAYdvDdpDBjQcvTlUkd10g4xzN0/LYhdF"
+  ]
+}

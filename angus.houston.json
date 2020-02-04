@@ -1,0 +1,17 @@
+{
+    "username" : "angush",
+    "comment"  : "Angus Houston",
+    "realms"   : [ "operations-gateway"
+                 , "service-dashboard-app"
+                 , "beta-*"
+                 ],
+    "groups"   : [ "lexer"
+                 , "docker:service-dashboard-app"
+                 , "docker:beta-*"
+                 , "sudo:beta-*"
+                 ],
+    "password" : "$1$3wNQ4Rrw$htToBpiCQJulOHiok7AZm0",
+    "shell"    : "/bin/bash",
+    "ssh_keys" : [ "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIFkUxiXZ9keYls/nc1e9/oDCWcffPK2gpsp5JiDsrpy angush@Anguss-MacBook-Pro.local" ]
+}
+

@@ -1,0 +1,27 @@
+{
+  "username": "louiekuechlegreer",
+  "comment": "Louie Kuechle Greer",
+  "realms": [
+    "au-identity-data",
+    "au-identity-data-processor",
+    "identity-gateway",
+    "operations-gateway",
+    "au-identity-es-proxy",
+    "us-identity-es-proxy",
+    "service-attributes-manager",
+    "us-identity-data"
+  ],
+  "groups": [
+    "data",
+    "docker:au-identity-data",
+    "docker:au-identity-data-processor",
+    "docker:service-attributes-manager",
+    "docker:us-identity-data",
+    "lexer"
+  ],
+  "password": "$1$q7bUMtoa$y7UGkrJwOZBCQ9ISF/gOv.",
+  "shell": "/bin/bash",
+  "ssh_keys": [
+    "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGQ5NskpfBiyd9s5B35JofNJpRXM+EpMEzQJsXhACO2L louiekuechlegreer@Louies-MacBook-Pro.local"
+  ]
+}

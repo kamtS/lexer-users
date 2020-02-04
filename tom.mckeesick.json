@@ -1,0 +1,49 @@
+{
+  "username": "tomm",
+  "comment": "Tom McKeesick",
+  "realms": [
+    "us-identity-data-processor",
+    "dev-*",
+    "beta-*",
+    "*-identity-client-upload",
+    "au-identity-data-processor",
+    "au-identity-decorator",
+    "au-identity-delta-processor",
+    "au-identity-es-proxy",
+    "service-consumer-es-proxy",
+    "identity-gateway",
+    "operations-gateway",
+    "service-attributes-manager",
+    "service-dashboard-app",
+    "service-twitter-consumer",
+    "au-identity-admin",
+    "us-identity-admin",
+    "au-identity-data",
+    "us-identity-data",
+    "us-identity-es-proxy",
+    "us-identity-delta-processor"
+  ],
+  "groups": [
+    "sudo:dev-*",
+    "sudo:beta-*",
+    "sudo:*-identity-client-upload",
+    "sudo:us-identity-data-processor",
+    "sudo:au-identity-data-processor",
+    "sudo:au-identity-delta-processor",
+    "lexer",
+    "data",
+    "sudo:service-attributes-manager",
+    "sudo:service-dashboard-app",
+    "sudo:service-twitter-consumer",
+    "sudo:au-identity-admin",
+    "sudo:us-identity-admin",
+    "sudo:au-identity-data",
+    "sudo:us-identity-data",
+    "sudo:us-identity-delta-processor"
+  ],
+  "password": "$1$hY.OC.z2$r64J8hCkpZ.xrXa5fXDxH1",
+  "shell": "/bin/bash",
+  "ssh_keys": [
+    "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINSu0kqZIegKG16bqzj7s9RLNyEli+ZytSYcw3xGdk9i freman@Toms-MacBook-Pro-3.local"
+  ]
+}

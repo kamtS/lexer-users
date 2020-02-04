@@ -1,0 +1,26 @@
+{
+  "username": "jameslayh",
+  "comment": "James Layh",
+  "realms": [
+    "au-identity-data",
+    "identity-gateway",
+    "operations-gateway",
+    "au-identity-es-proxy",
+    "us-identity-es-proxy",
+    "service-attributes-manager",
+    "us-identity-data"
+  ],
+  "groups": [
+    "data",
+    "docker:au-identity-data",
+    "docker:service-attributes-manager",
+    "docker:us-identity-data",
+    "docker:us-identity-data-processor",
+    "lexer"
+  ],
+  "password": "$1$1U2iGiv6$FR.IZOkLmJpPCt68sFF8k.",
+  "shell": "/bin/bash",
+  "ssh_keys": [
+    "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIhlwB1nSdv0LER+3Z0u8+jTVIkBPKJclJoC162WC5dG jameslayh@Jamess-MacBook-Pro.local"
+  ]
+}

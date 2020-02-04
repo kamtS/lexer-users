@@ -1,0 +1,16 @@
+{
+  "username": "danjohnson",
+  "comment": "Daniel Johnson",
+  "realms": [
+    "operations-gateway",
+    "service-lexer-website-admin"
+  ],
+  "groups": ["lexer"],
+  "password": "",
+  "shell": "/bin/bash",
+  "ssh_keys": [
+    "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIO43vvqfuMJTrSXksfPa+43CqFfqV+vxXPkdHzrcU6Sf danjohnson@Dans-MacBook.local",
+    "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCd7UDAdnN5uovZUa5OSRu7m5BYQo67Or9SXsSsgLtmmJ0SpcKWevGAXByUv+ZGmd9DkaXYgJBSSBdm5JevEZIBv2aZsGaiXHLhL+2HYnFkDkgo1aMem+gPCjoNnj22QhLoii36jGT5BRUNN7d5KjMxp8WFguU3FrC1BzFnyCnN5lsJjXnv/RNnPFad4Kqorycb1TB/A8/Mi6PU/j06pyNaZvoZI4LMDds5eHFXBKO6cWjxqkuOfd6JoeDjUYKzD3tNLXcbE9LE3KBvH1YiDjI5XRrMeIgUgUi0FV05cTjRsfE7Qc24uTwUahY99bX2KmLcHlvt35sypYtinO4Get6X dj@Dans-MacBook-2.local",
+    "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAKT1L3xg23T1bDenee3DUDF03hKZsU8OqEcILf+3Kb1 danjohnson@Dans-MacBook.local"
+  ]
+}

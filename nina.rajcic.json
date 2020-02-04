@@ -1,0 +1,28 @@
+{
+  "username": "ninar",
+  "comment": "Nina Rajcic",
+  "realms": [
+    "au-identity-es-proxy",
+    "service-consumer-es-proxy",
+    "operations-gateway",
+    "identity-gateway",
+    "service-consumer",
+    "au-identity-data",
+    "us-identity-data",
+    "service-attributes-manager",
+    "us-identity-es-proxy"
+  ],
+  "groups": [
+    "lexer",
+    "data",
+    "docker:service-consumer",
+    "docker:service-attributes-manager",
+    "docker:au-identity-data",
+    "docker:us-identity-data"
+  ],
+  "password": "$1$AHcQ7a6F$okOJehfO3RbPjoPZ.MCHD/",
+  "shell": "/bin/bash",
+  "ssh_keys": [
+    "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICeTshMsEGqoZXAYqTcErSZB1leu0N+wE9GsxEyIB7cb nina.rjcc@gmail.com"
+  ]
+}

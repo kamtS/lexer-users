@@ -1,0 +1,11 @@
+{
+  "username": "willc",
+  "comment": "Will Cooper",
+  "realms": [
+    "service-lexer-website-admin"
+  ],
+  "groups": ["lexer"],
+  "password": "$1$84c/HObu$LHnLimXbylx0I5V6Q.KrG1",
+  "shell": "/bin/bash",
+  "ssh_keys": []
+}

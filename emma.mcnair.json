@@ -1,0 +1,12 @@
+{
+  "username": "emmamcnair",
+  "comment": "Emma McNair",
+  "realms": [
+    "operations-gateway",
+    "service-lexer-website-admin"
+  ],
+  "groups": ["lexer"],
+  "password": "$1$Thp61FCq$kwV9X2K25.iHWVGrI9o49.",
+  "shell": "/bin/bash",
+  "ssh_keys": ["ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCg1e1TNoURoVm4sOu7rsu0pwPpMofE02Qaoas8VI8bNQBt7zMeUsgoFgmJp2qg26W84kuF83yGFlQa9Jvn9/hOrcUzKOIljjZ9b+YWU94wbOj/KJfzlUbJuYuJXAW42pgJpFuU8ym6H4J/O++ewA9Sfgp3H3VID5vxH070m170i4gSSwn4Fseom6un2b09k3vNS2cbVrXQJpoWhASQefFHUveKZFJBzIFgh0gQQvDC2eUt8zJjG58nXod6DfVLtDjC/Srb9n8dwf1vAuGDN6cNc5SXstzZ/zsw5lq/wEuLxryat1o9zhrELma0UB/3DSIBiWYwZLqSkZoyIZbGuaSl emmamcnair@Emmas-MacBook.local"]
+}

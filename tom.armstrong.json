@@ -1,0 +1,16 @@
+{
+  "username": "toma",
+  "comment": "Tom Armstrong",
+  "realms": [
+    "operations-gateway",
+    "service-dashboard-app",
+    "beta-*"
+  ],
+  "groups": [
+    "lexer",
+    "docker:service-dashboard-app",
+    "docker:beta-*"
+  ],
+  "shell": "/bin/bash",
+  "ssh_keys": ["ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAJG3hK3bzMpd6MhAX585eqCJ6b1OiZ/STfEo8Hdlt2C thomasarmstrong@Thomass-MacBook-Pro.local"]
+}

@@ -1,0 +1,8 @@
+{
+  "username": "admin-lexer",
+  "comment": "Admin account for authenticated scans",
+  "realms": [],
+  "groups": [],
+  "password": "",
+  "ssh_keys": []
+}

@@ -1,0 +1,23 @@
+{
+  "username": "mithun",
+  "comment": "Mithun Hunsur",
+  "realms": [
+    "beta-*",
+    "dev-*",
+    "au-identity-data",
+    "us-identity-data",
+    "identity-gateway",
+    "operations-gateway"
+  ],
+  "groups": [
+    "lexer",
+    "data",
+    "docker:au-identity-data",
+    "docker:us-identity-data"
+  ],
+  "password": "$1$RVIfahR8$gk0Y6PG2XN.5o2B0Ih9U0.",
+  "shell": "/bin/bash",
+  "ssh_keys": [
+    "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFj4xU7TNWXVjZhJISd9aiIuc1lYRcEek6Yv5ThpYgCg mithunhunsur@Mithuns-MacBook-Pro.local"
+  ]
+}
