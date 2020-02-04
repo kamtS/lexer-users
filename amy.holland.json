@@ -9,6 +9,6 @@
   "password": "",
   "shell": "/bin/bash",
   "ssh_keys": [
-
+      "SHA256:x6FJz9z/NSqatBIoamaOcQvnpWZqjNsiXI7njRm6WKA amy.holland@lexer.com.au"
   ]
 }
